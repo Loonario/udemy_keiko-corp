@@ -202,7 +202,7 @@ header .social li:first-child{
   }	
 
 /*		Hero section 		*/
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 601px) {
 	.hero{
 	  background: url('../img/hero.jpg') no-repeat fixed center center;
 	  
